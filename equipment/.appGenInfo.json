@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Fri Jun 20 2025 08:04:52 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP Environment on SAP Business Technology Platform)",
+    "metadataFilename": "",
+    "serviceUrl": "https://685bd85e-501d-43dd-b091-aa6811254f67.abap.us10.hana.ondemand.com/sap/opu/odata4/sap/zsb_equipment_ca/srvd/sap/zsd_equipment_ca/0001/",
+    "appName": "equipment",
+    "appTitle": "Equipment Manager",
+    "appDescription": "An SAP Fiori application for equipment managment.",
+    "appNamespace": "sap.fe.demo",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.133.4",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.18.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Equipment"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "_MaintenanceTasks"
+      }
+    ],
+    "launchText": "In order to launch the generated app, simply run the following from the generated app root folder:\n\n```\n    npm start\n```"
+  }
+}
